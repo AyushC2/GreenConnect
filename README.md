@@ -3,6 +3,8 @@
 GreenConnect is an eco-friendly Android application that helps users responsibly dispose of unwanted or damaged electrical appliances. The app connects users with recycling partners, allows easy pickup scheduling, and rewards users for contributing to sustainability.
 
 🚀 Features
+
+
 🔐 User Authentication
 Secure login & signup using Firebase Authentication
 1. Home Dashboard
