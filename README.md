@@ -4,14 +4,18 @@ GreenConnect is an eco-friendly Android application that helps users responsibly
 
 
 🛠️ Tech Stack
+
 1.Frontend (Android)
 Language: Kotlin
 UI Design: XML
 IDE: Android Studio
+
 2.Backend & Services
 Authentication: Firebase Authentication
 Database: Firebase Realtime Database / Firestore
 Storage: Firebase Storage (for images)
+
+
 3. APIs & Tools
 Google Maps Intent (for location-based features)
 Camera & Gallery Integration
