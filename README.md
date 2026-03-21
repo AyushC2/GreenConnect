@@ -2,8 +2,28 @@
 
 GreenConnect is an eco-friendly Android application that helps users responsibly dispose of unwanted or damaged electrical appliances. The app connects users with recycling partners, allows easy pickup scheduling, and rewards users for contributing to sustainability.
 
-🚀 Features
 
+🛠️ Tech Stack
+1.Frontend (Android)
+Language: Kotlin
+UI Design: XML
+IDE: Android Studio
+2.Backend & Services
+Authentication: Firebase Authentication
+Database: Firebase Realtime Database / Firestore
+Storage: Firebase Storage (for images)
+3. APIs & Tools
+Google Maps Intent (for location-based features)
+Camera & Gallery Integration
+Material UI Components
+
+FLowChart
+
+<p align="center">
+  <img src="Visual%20Insights/FlowChart.jpeg" width="400"/>
+</p>
+
+🚀 Features
 
 🔐 User Authentication
 Secure login & signup using Firebase Authentication
@@ -55,6 +75,4 @@ Secure login & signup using Firebase Authentication
   <img src="Visual%20Insights/UploadPage2.png" width="400"/>
 </p>
 
-<p align="center">
-  <img src="Visual%20Insights/FlowChart.jpeg" width="400"/>
-</p>
+
