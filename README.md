@@ -56,5 +56,5 @@ Secure login & signup using Firebase Authentication
 </p>
 
 <p align="center">
-  <img src="Visual%20Insights/FlowChart.png" width="400"/>
+  <img src="Visual%20Insights/FlowChart.jpeg" width="400"/>
 </p>
