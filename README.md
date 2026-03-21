@@ -19,5 +19,5 @@ GreenConnect helps users track, manage, and contribute to environmental initiati
 ## 🖥️ Preview
 
 <p align="center">
-  <img src="Visual%20Insights/SplashScreen.png" width="800"/>
+  <img src="Visual%20Insights/SplashScreen.png" width="400"/>
 </p>
