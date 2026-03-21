@@ -15,7 +15,6 @@ Authentication: Firebase Authentication
 Database: Firebase Realtime Database / Firestore
 Storage: Firebase Storage (for images)
 
-
 3. APIs & Tools
 Google Maps Intent (for location-based features)
 Camera & Gallery Integration
