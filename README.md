@@ -1,23 +1,58 @@
-# 🌱 GreenConnect — Smart Waste Management Platform
+🌱 GreenConnect – Smart E-Waste Recycling App
 
-A premium, interactive platform designed to promote **eco-friendly living** by connecting individuals, communities, and organizations.  
-Built with a focus on **sustainability, smart analytics, and user engagement**.
+GreenConnect is an eco-friendly Android application that helps users responsibly dispose of unwanted or damaged electrical appliances. The app connects users with recycling partners, allows easy pickup scheduling, and rewards users for contributing to sustainability.
 
+🚀 Features
+🔐 User Authentication
+Secure login & signup using Firebase Authentication
+1. Home Dashboard
+      Scan Item
+      Post Item
+      Earn Credits
+      Featured Deals
+      Pickup & Track
+2. Upload Appliance
+      Upload images (Camera / Gallery)
+      Select appliance type
+      Choose condition (Working / Semi-working / Broken)
+      Enter product age
+      Choose reward/payment option
+3.Pickup & Tracking
+      Track recycling status
+      View order details
+      Set reminders for pickup
+4.User Profile
+      Manage user details
+      View rewards/credits
+      Logout
 ---
-
-## 🚀 Overview
-
-GreenConnect helps users track, manage, and contribute to environmental initiatives like:
-- ♻️ Waste Management
-- 🌍 Eco Awareness
-- 📊 Data Insights & Analytics
-- 🤝 Community Engagement
-- 🔔 Smart Notifications
-
----
-
-## 🖥️ Preview
+## 📱 App Screenshots
 
 <p align="center">
   <img src="Visual%20Insights/SplashScreen.png" width="400"/>
+  <img src="Visual%20Insights/LoginPage.png" width="400"/>
+</p>
+
+<p align="center">
+  <img src="Visual%20Insights/SignUpPage.png" width="400"/>
+  <img src="Visual%20Insights/HomePage1.png" width="400"/>
+</p>
+
+<p align="center">
+  <img src="Visual%20Insights/HomePage2.png" width="400"/>
+  <img src="Visual%20Insights/ProfilePage.png" width="400"/>
+</p>
+
+<p align="center">
+  <img src="Visual%20Insights/TrackPage1.png" width="400"/>
+  <img src="Visual%20Insights/TrackPage2.png" width="400"/>
+</p>
+
+<p align="center">
+  <img src="Visual%20Insights/UploadPage1.png" width="400"/>
+  <img src="Visual%20Insights/UploadPage2.png" width="400"/>
+</p>
+
+<p align="center">
+  <img src="Visual%20Insights/FlowChart.png" width="400"/>
 </p>
