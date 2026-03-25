@@ -4,7 +4,7 @@ GreenConnect is an eco-friendly Android application that helps users responsibly
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack 
 
 ### Frontend (Android)
 - Language: Kotlin  
